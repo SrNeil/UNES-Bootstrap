@@ -1,0 +1,26 @@
+html , body {
+    height: 100%;
+}
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 17px 0;
+}
+
+.divisor {
+    width: 1px;
+    background-color: rgba(0,0,0,.5);
+    margin: 12px 15px;
+}
+
+header {
+    padding: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    margin-top: 10px;
+}
